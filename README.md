@@ -1,10 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to the Health Care Engagement
 
 You can use the [editor on GitHub](https://github.com/ThermidorAll/ENGAGE/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+Primary Care and Wellness
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -12,8 +13,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+Recreational activities
 ## Header 2
+Education and Promotion
 ### Header 3
+Communication
 
 - Bulleted
 - List
@@ -22,7 +26,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
+wwww.engagepeople.org
 [Link](url) and ![Image](src)
 ```
 
